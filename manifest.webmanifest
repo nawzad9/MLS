@@ -1,0 +1,80 @@
+{
+  "id": "./",
+  "name": "MLS — Registration & Mark Sheets — University of Raparin",
+  "short_name": "MLS UoR",
+  "description": "تۆمارکردن و نمرەکانی بەشی زانستی تاقیگەی پزیشکی، کۆلێژی زانست، زانکۆی ڕاپەڕین — Registration and mark sheets for the Department of Medical Laboratory Science.",
+  "lang": "ckb",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EEF3F2",
+  "theme_color": "#1D6770",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/wide-marks.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Mark sheet sorted by score"
+    },
+    {
+      "src": "screenshots/wide-overview.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Head of department — overview"
+    },
+    {
+      "src": "screenshots/narrow-teacher.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Teacher — welcome and subjects"
+    },
+    {
+      "src": "screenshots/narrow-marks.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Entering marks on a phone"
+    }
+  ]
+}
