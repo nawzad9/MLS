@@ -6,7 +6,7 @@
 
 /* ═══ 1. Config ═══════════════════════════════════════════════════════════ */
 const CONFIG = {
-  API_URL: 'https://script.google.com/macros/s/AKfycbwhYhkMhsP5eDFwn1HYRbvJVqm5xOUKRwm0Hp9PYIKMjBGpqZ75Njg-dx1weUbW0N5X/exec',   // Apps Script → Deploy → Web app → URL ending in /exec
+  API_URL: 'https://script.google.com/macros/s/AKfycbxh7NpQ0YTCZkvdNOmxBtNvP51syCttL8s_jAXgi4IWxv2cYpnijilrHViJ6ar7_xfK/exec',   // Apps Script → Deploy → Web app → URL ending in /exec
   SHORT_NAME: 'MLS',
   DOCX_LIB: 'vendor/docx.iife.js',
   EXCEL_LIB: 'vendor/exceljs.min.js'
